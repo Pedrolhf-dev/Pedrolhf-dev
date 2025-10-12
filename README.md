@@ -2,13 +2,17 @@
 
 Crio sites e sistemas em **PHP + JavaScript + MySQL** com foco em **UX, desempenho e mobile-first**.  
 Integro **PIX, QR Code, Google Maps** e **SMTP** quando necessário.  
-Atuação na **AllTech Websites** em paralelo. **Busco estágio em desenvolvimento web**.  
-Portfólio: [alltechwebsites.com](https://alltechwebsites.com/) (em desenvolvimento)
+Sou **co-fundador da [AllTech Websites](https://alltechwebsites.com/)** (site no ar).  
+**Busco estágio em desenvolvimento web.**  
+**Portfólio pessoal:** em desenvolvimento.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Buscando-Est%C3%A1gio-16a34a?style=for-the-badge">
   <a href="mailto:pedrolhf06@gmail.com">
     <img src="https://img.shields.io/badge/Contato-pedrolhf06%40gmail.com-0b5fff?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://alltechwebsites.com/">
+    <img src="https://img.shields.io/badge/Site-AllTech%20Websites-673DE6?style=for-the-badge">
   </a>
 </p>
 
@@ -36,9 +40,9 @@ Portfólio: [alltechwebsites.com](https://alltechwebsites.com/) (em desenvolvime
 
 ## O que entrego
 - **Interfaces rápidas e responsivas**, acessíveis e otimizadas (PageSpeed).
-- **Integrações práticas**: pagamentos, mapas, upload/validação, e-mail.
-- **Código organizado**: componentes reutilizáveis, CSS escalável e padrões de projeto simples.
-- **Documentação curta** para rodar o projeto localmente.
+- **Integrações práticas**: pagamentos (PIX), mapas, upload/validação, e-mail (SMTP).
+- **Código organizado**: componentes reutilizáveis, CSS escalável e padrões simples.
+- **Docs rápidas** para rodar o projeto localmente.
 
 ---
 
@@ -51,12 +55,12 @@ Portfólio: [alltechwebsites.com](https://alltechwebsites.com/) (em desenvolvime
 ---
 
 ## Sobre mim
-Cofundador da **AllTech Websites**. Gosto de transformar requisitos em MVPs prontos para teste, priorizando clareza visual e performance.  
-Atualmente, **aberto a estágio** para evoluir em time, contribuir em features reais e crescer no ecossistema web.
+Cofundador da **AllTech Websites**. Transformo requisitos em MVPs prontos para teste, priorizando clareza visual e performance.  
+Aberto a **estágio** para colaborar em features reais, aprender com o time e evoluir no ecossistema web.
 
 ---
 
-## Como colaborar / contato
-- Solicite acesso a repositórios de estudo e projetos demo.
-- Fale comigo por e-mail: **pedrolhf06@gmail.com**
-- Portfólio (em desenvolvimento): **https://alltechwebsites.com/**
+## Contato
+- E-mail: **pedrolhf06@gmail.com**  
+- AllTech: **https://alltechwebsites.com/**  
+- Portfólio pessoal: **em desenvolvimento**
