@@ -2,7 +2,7 @@
 
 Crio sites e sistemas em **PHP + JavaScript + MySQL** com foco em **UX, desempenho e mobile-first**.  
 Integro **PIX, QR Code, Google Maps** e **SMTP** quando necessário.  
-Sou **co-fundador da [AllTech Websites](https://alltechwebsites.com/)** (site no ar).  
+Sou **co-fundador da [AllTech Websites](https://alltechwebsites.com/)** .  
 **Busco estágio em desenvolvimento web.**  
 **Portfólio pessoal:** em desenvolvimento.
 
